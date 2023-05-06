@@ -1,0 +1,9 @@
+0 ->        ZERO ZERO
+1-10 ->     Neon Hydrogen
+-1 - - 10 ->        Lawrencium Plutonium
+>10 ->      Sodium Calcium
+<-10 ->         Neptunium Letetium
+
+First word = prefix
+Second word = suffix
+Numbers = range for those prefix/suffix
